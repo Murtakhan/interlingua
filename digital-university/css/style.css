@@ -609,7 +609,7 @@ header .main-navigation nav .navbar-nav  .nav-link:hover, header .main-navigatio
     left: 0;
     right: 0;
     top:0;
-    z-index: 1111;
+    z-index: 1112;
     background-color: #12b975;
     /*background:linear-gradient(30deg, rgba(53, 13, 130, 0.9) 0%, rgba(128, 33, 181, 0.9) 100%);*/
     -webkit-animation-name: animationFade;
@@ -1585,7 +1585,6 @@ background-color: #FFFFFF;
     position: absolute;
     bottom: 5%;
     left: 11.5%;
-    z-index: 1111;
     cursor: pointer;
     transform: translateX(40%);
 }
